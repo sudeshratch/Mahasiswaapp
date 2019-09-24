@@ -14,4 +14,4 @@ fitur dari web mahasiswa app ini adalah
 ## Mobile
 Fitur dari mobile mahasiswa app ini adalah
 1. Mahasiswa bisa melihat kelas yang diambil 
-2. Mahasiswa 
+2. Mahasiswa bisa melihat data mahasiswa sendiri
